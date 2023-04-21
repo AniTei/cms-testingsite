@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(21, 131, 94);
+}
+
+
+
+header {
+    background-color: rgb(157, 255, 222);
+
+    font-size: 2em;
+    padding: 0.5em;
+
+}
+header a {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+main {
+    background-color: rgb(162, 227, 204);
+    padding: 0.5em;
+    margin: 2em;
+}
+
+h1 {
+    margin: 0;
+    padding: 1em;
+}
+
+footer {
+    background-color: rgb(162, 227, 204);
+    text-align: center;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer div {
+    margin: auto;
+}
